@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Samuel Djodi**.\
+Perkenalkan nama saya **Samuel Djodi**.
 
 Saya seorang **Mahasiswa** di Universitas Brawijaya
 
